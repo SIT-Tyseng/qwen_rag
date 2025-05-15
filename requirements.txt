@@ -1,0 +1,11 @@
+langchain
+langchain-community
+chromadb
+transformers
+torch
+sentence-transformers
+gradio
+pypdf>=3.0.0
+pymupdf
+accelerate
+hf_xet
